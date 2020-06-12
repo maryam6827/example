@@ -11,6 +11,8 @@ namespace WindowsFormsApplication1
         public void Printing()
         {
             Console.WriteLine("Hiiiiiiiiiii");
+            Console.WriteLine("ooooooooooooooo");
+
         }
     }
 }
