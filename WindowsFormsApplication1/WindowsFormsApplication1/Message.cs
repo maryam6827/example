@@ -12,6 +12,7 @@ namespace WindowsFormsApplication1
         {
             Console.WriteLine("Hiiiiiiiiiii");
             Console.WriteLine("ooooooooooooooo");
+                        Console.WriteLine("Byeeeeeeeeeeeeeeeeeee");
 
         }
     }
